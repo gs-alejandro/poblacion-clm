@@ -10,10 +10,9 @@
 ## **USO**
 
 Si se quiere desplegar este proyecto en una máquina propia, basta con clonar el repositorio, instalar las 
-dependencias con alguna de las siguientes líneas, **dependiendo de si se usa pip o conda**:
+dependencias:
 ```
 pip install -r requirements.txt
-conda env create -f environment.yml
 ```
 Y ejecutar el dashboard con streamlit (desde la raíz del proyecto):
 ```
